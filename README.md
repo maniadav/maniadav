@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Manish Yadav</h1>
+<h3 align="center">a Javascript Developer at Myglamm</h3>
 
-<!--
-**Manishyadav514/Manishyadav514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img src="https://skillicons.dev/icons?i=js,ts,python,react,next,aws,mongodb,sass,css&perline=16" alt="Tech Stack" /> </p>
+ 
+- Skills 🛠: **Javascript** - **Python** - **TypeScript** - **Tailwind** - **Solid** - **Next** - **React** - **AWS CDK** 
 
-Here are some ideas to get you started:
+- Language Speak: English - Hindi - Urdu 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 I spend spare time in writing poems.
+
+- 📫 You can reach me at [manish.yadav.elit@gmail.com]("")
+
+
+
+#### Loved Repository
+Click on the links to check hosted site 💔
+ - [Amazon Clone](https://react-website-amazon-clone.vercel.app/)
+ - [Netflix Clone](https://react-netflix-clone-6fa02.web.app/)
+ - [DearSenpai]("")
+
+
+
