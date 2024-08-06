@@ -18,6 +18,7 @@ Click on the links to check hosted site 💔
  - [Amazon Clone](https://react-website-amazon-clone.vercel.app/)
  - [Netflix Clone](https://react-netflix-clone-6fa02.web.app/)
  - [DearSenpai](https://next-portfolio-kappa-nine.vercel.app/)
+ - [BrainTeaser](https://bhishma-lab-frontend.vercel.app/)
 
 
 
